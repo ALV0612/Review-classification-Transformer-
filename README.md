@@ -1,4 +1,4 @@
-# # Review Score Classification using BERT Classifier
+# Review Score Classification using BERT Classifier
 
 ## Installation
 
